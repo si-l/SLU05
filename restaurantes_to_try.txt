@@ -2,4 +2,8 @@ Sol e Mar
 Beira Mar
 Pic Nic
 Alto Sé
+<<<<<<< HEAD
 Era uma vez
+=======
+MAis um Restaurante
+>>>>>>> Uber_2
